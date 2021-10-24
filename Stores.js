@@ -9,6 +9,6 @@ const Stores = createStore(
   applyMiddleware(logger)
 )
 
-print("hello world;")
+
 
 export default Stores;
